@@ -30,6 +30,11 @@
 *.exe
 *.out
 *.app
-average_and_max
-factorial
-random_numbers
+
+.vscode/*
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
